@@ -11,7 +11,7 @@ export const pabloAvilesPrieto = {
   role: 'Full-Stack',
   code: [Javascript, Typescript, HTML5, CSS3, SASS, MySQL],
   tools: [ReactJS, NodeJS, Redux, Jest, Cypress, Playwright],
-  contact: ['pablo.aviles.prieto@gmail.com'],
+  contact: 'pablo.aviles.prieto@gmail.com'
 };
 ```
 
