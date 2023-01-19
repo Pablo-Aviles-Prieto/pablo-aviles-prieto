@@ -38,7 +38,7 @@ export const pabloAvilesPrieto = {
 
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pablo-aviles-prieto&show_icons=true&theme=dracula&count_private=true" height="150" alt="Pablo Avilés Prieto" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&username=pablo-aviles-prieto" height="150" alt="languages graph" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=pablo-aviles-prieto" height="150" alt="languages graph" />
 </div>
 
 ## 📝 Reach me out
