@@ -9,9 +9,10 @@ export const pabloAvilesPrieto = {
   name: 'Pablo Avilés Prieto',
   location: 'A Coruña, Galicia, Spain',
   role: 'Full-Stack',
-  code: [Javascript, Typescript, HTML5, CSS3, SASS, MySQL],
-  tools: [ReactJS, NodeJS, Redux, Jest, Cypress, Playwright],
-  contact: 'pablo.aviles.prieto@gmail.com'
+  code: [JavaScript, TypeScript, HTML5, CSS3, SASS, MySQL, NoSQL],
+  tools: [ReactJS, NodeJS, Tailwind, Jest, Cypress, Playwright],
+  contact: 'pablo.aviles.prieto@gmail.com',
+  website: 'www.pabloaviles.es'
 };
 ```
 
